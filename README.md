@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy Jerónimo
+# ¡Hola a todos! 👋 Soy Juan Joven
 
 ### 👨‍💻 Estudiante de Análisis y Desarrollo de Software (ADSO)
 Estoy iniciando mi camino en el mundo del desarrollo de software. Me gusta la maquetación web, el diseño de interfaces limpias y actualmente me encuentro aprendiendo a gestionar y consultar bases de datos.
@@ -25,8 +25,15 @@ Estoy iniciando mi camino en el mundo del desarrollo de software. Me gusta la ma
 
 **Aprendiendo actualmente:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=white)
 
 **Herramientas:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📬 Conéctate conmigo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Juanjoven_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
