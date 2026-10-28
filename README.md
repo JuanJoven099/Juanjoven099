@@ -7,7 +7,7 @@ Estoy iniciando mi camino en el mundo del desarrollo de software. Me enfoco en m
 
 ### 🚀 Sobre mí :
 
-- 🔭 **Actualmente trabajando en:** [TailwindCSS Login Page](https://juanjoven099.github.io/tailwindcss-loginpage/), una interfaz moderna de inicio de sesión con Tailwind CSS.
+- 🔭 **Actualmente trabajando en:** [AdminMarket](https://juanjoven099.github.io/tailwindcss-loginpage/), una interfaz moderna de inicio de sesión con Tailwind CSS.
 - 👯 **Busco colaborar en:** Proyectos web interactivos y retos de diseño frontend.
 - 🤝 **Busco ayuda con:** Diseño de bases de datos relacionales y lógica en JavaScript.
 - 🌱 **Actualmente aprendiendo:** Bases de datos y consultas en **SQL / MySQL**.
@@ -18,7 +18,7 @@ Estoy iniciando mi camino en el mundo del desarrollo de software. Me enfoco en m
 
 ### 📂 Proyectos Destacados
 
-#### 🔐 [TailwindCSS Login Page (En desarrollo)](https://juanjoven099.github.io/tailwindcss-loginpage/)
+#### 🔐 [AdminMarket (En desarrollo)](https://juanjoven099.github.io/tailwindcss-loginpage/)
 Interfaz moderna y responsiva de inicio de sesión (*Login Page*), implementando utilidades de diseño ágil con Tailwind CSS.
 
 - **Tecnologías:** HTML5, Tailwind CSS, JavaScript.
